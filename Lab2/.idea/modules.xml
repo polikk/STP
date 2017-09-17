@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Polik.iml" filepath="$PROJECT_DIR$/.idea/modules/Polik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Polik_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Polik_main.iml" group="Polik" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Polik_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Polik_test.iml" group="Polik" />
+    </modules>
+  </component>
+</project>
